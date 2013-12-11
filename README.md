@@ -3,7 +3,7 @@
 - Easy read ImageJ / Fiji ROI binaries in Python
 - Created for python 3.3 and more but should work with python 2.7
 - To install it just copy / paste read_roi.py in your project
-- - Specifications and code is largely inspired from: http://rsb.info.nih.gov/ij/developer/source/ij/io/RoiDecoder.java.html
+- Specifications and code is largely inspired from: http://rsb.info.nih.gov/ij/developer/source/ij/io/RoiDecoder.java.html
 
 ## How to use it
 
